@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Skin Ailments",
+      "id": 1,
+      "img": "https://i.ibb.co/VBY6GZW/9-common-skin-disorders-St-Hope-Foundation-1920w.jpg",
+      "banner": "https://i.ibb.co/mcqztLW/inpage-article-skinailments.jpg",
+      "desc": "A common bacterial skin infection, cellulitis occurs when bacteria enters a break in the skin and spreads. Cellulitis can manifest anywhere on your body, but it’s most common on exposed parts of the skin like the lower legs, hands, arms, and face.",
+      "title": "What is Cellulitis?",
+      "details": "To diagnose cellulitis, your MedExpress medical team will, among other things, examine the affected area. They may perform a blood test or take a sample of the area to test for bacteria that caused the condition. A healthcare professional can consider the severity of your symptoms when determining treatment, which may include an oral antibiotic. Stay in touch with your healthcare professional as the infection heals and responds to medication to determine if a course correction is required. If the infection doesnt respond well to the initial antibiotic choice, alterations to the antibiotic regimen may be necessary, which could include a change to IV medications."
+    },
+    {
+      "name": "Camp, School, and Sports Physicals",
+      "id": 2,
+      "img": "https://i.ibb.co/bLZzrj3/Maine-Urgent-Care-School-Sports-Physicals.jpg",
+      "banner": "https://i.ibb.co/48s4W8m/inpage-article-sportsphysicalsv2.jpg",
+      "desc": "With no appointment needed, sports physicals from MedExpress couldn’t be easier. Whether your child is getting ready for sports, school, or camp, a physical is the first step in making sure they’re healthy and ready for any activity.",
+      "title": "Why Get a Sports Physical?",
+      "details": "With more than 46 million kids participating in sports each year, making sure your athlete is okay to play is the first step in getting ready for the big game. Did you know that 62 percent of all organized sports-related injuries happen during practices rather than games? Football, basketball, and soccer were found to be the top three sports where most injuries occur. Sports physicals are largely required by athletic leagues and schools − and for good reason. They raise awareness of any issues that may interfere with your child’s ability to participate in a sport. Your healthcare provider can identify areas that may be prone to injury and suggest tips and exercises to avoid future problems."
+    },
+    {
+      "name": "Digital X-rays",
+      "id": 3,
+      "img": "https://i.ibb.co/4pmTxVT/ADC-Digital-Xray.jpg",
+      "banner": "https://i.ibb.co/GnBgtx8/digital-xray.jpg",
+      "desc": "Broken bones, sprains, fractures. For many, an X-ray calls to mind these common injuries. But our full medical team uses X-ray machines for so much more – assessing dislocations, taking chest X-rays for stubborn coughs, and using imaging to diagnose kidney stones, to name a few. ",
+      "title": "Radiologic Technologists On Site?",
+      "details": "If that persistent cough can’t wait or you think you might have a broken bone or kidney stone, MedExpress centers are open every day, with radiologic technologists (RTs) on site all day to perform X-rays. With X-rays on site, MedExpress can diagnose a wide array of illnesses and injuries and help identify the best treatment plan right away."
+    },
+    {
+      "name": "Broken Bones",
+      "id": 4,
+      "img": "https://i.ibb.co/6nWYNbR/735b90b4568125ed6c3f678819b6e058-67-thumb-jpg.jpg",
+      "banner": "https://i.ibb.co/vm6VhJG/p05bcm0z.jpg",
+      "desc": "we are open every day with a full medical team and digital X-rays on site, so your broken bone can be examined right away.",
+      "title": "What Is a Broken Bone?",
+      "details": "The term \"broken bone\" is synonymous with \"fracture,\" as they both can happen any time direct, excessive force is applied to the bone. Depending on the level of force, the bone may break, shatter, or crack. While broken collarbones, broken arms, broken wrists, and broken ankles are the most common, a broken bone can occur at any location where too much force is applied. Different types of injuries exert force on the bone in different ways, which can result in different types of breaks. While there are numerous types of broken bones, below are some of the most common"
+    },
+    {
+      "name": "Common Colds",
+      "id": 5,
+      "img": "https://i.ibb.co/q0t9TRh/featured-img-of-post-166581.jpg",
+      "banner": "https://i.ibb.co/FHLzZHv/image.jpg",
+      "desc": "The common cold is true to its name: In the United States, there are millions of cases of the cold every year.1 It’s the primary reason kids stay home from school and adults miss work.",
+      "title": "What is the Common Cold?",
+      "details": "According to the American Academy of Pediatrics, the average child has about 8 to ten colds in the first several years of her life. The common cold can be caused by more than 200 different viruses, which easily spread through close contact and in the air from coughs and sneezes. According to the CDC, rhinovirus is the most common type of virus that causes colds. For most people, this viral illness only causes minor discomfort and just a little bit of down time, since most colds clear up within 7 to ten days. However, colds can sometimes lead to other illnesses, called “secondary infections.” The most common of these are bronchitis, pneumonia, sinus infection, and ear infection. Small children are especially prone to ear infections after having a cold."
+    },
+    {
+      "name": "Drug And Alcohol Screenings",
+      "id": 6,
+      "img": "https://i.ibb.co/M1RPzKS/rehab-women.jpg",
+      "banner": "https://i.ibb.co/BZn4K4Z/What-Happen-In-Drug-Rehab.jpg",
+      "desc": "Employers from a wide variety of industries rely on pre-employment and periodic drug and alcohol screenings to protect your well-being as their employee, as well as your co-workers and, depending on the industry you work in, the general public.",
+      "title": "Who Needs Drug and Alcohol Screenings?",
+      "details": "For jobs in safety-sensitive industries such as manufacturing, shipping, transportation, and construction, drug and alcohol screenings are critically important and help make sure you’re not under the influence of any substances that might prevent you from being able to safely perform your job If employed by an industry overseen by a Department of Transportation (DOT) agency,1 such as commercial motor carriers, drug and alcohol screenings are required by federal law and certain testing regulations and procedures apply."
+    }
+  ]
