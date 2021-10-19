@@ -1,0 +1,19 @@
+.doctor-banner img {
+    width: 100%;
+}
+.doctors-area {
+    margin: 100px auto;
+}
+.doctors {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+}
+
+@media only screen and (max-width: 768px){
+    .doctors {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 50px;
+    }
+}

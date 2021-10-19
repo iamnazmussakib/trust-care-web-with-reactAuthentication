@@ -1,0 +1,18 @@
+.bg-area{
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.bg-area img {
+    width: 100%;
+}
+.login-section {
+  color: #000;
+}
+
+@media only screen and (max-width: 768px){
+    .login-section{
+        position: inherit;
+    }
+}

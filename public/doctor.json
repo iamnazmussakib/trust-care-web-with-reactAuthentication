@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Emily Haden",
+      "department": "Cardiology",
+      "img": "https://i.ibb.co/sp7YvNs/team-5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hellen Hill",
+      "department": "Gynecological",
+      "img": "https://i.ibb.co/gJzqNzP/team-6.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Audrey Button",
+      "department": "Padiatrical",
+      "img": "https://i.ibb.co/CwBbCGb/team-7.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Emmyson",
+      "department": "Dental Surgeon",
+      "img": "https://i.ibb.co/LSnch28/team-8.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Britham Hard",
+      "department": "Urology",
+      "img": "https://i.ibb.co/5hjbwnY/team-9.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Willy Hani",
+      "department": "Dental Surgeon",
+      "img": "https://i.ibb.co/nkhzsB5/team-10.jpg"
+    }
+  ]
