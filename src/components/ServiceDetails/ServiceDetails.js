@@ -1,21 +1,20 @@
-import React, { useEffect, useState } from 'react';
+
 import { useParams } from 'react-router';
 import useContent from '../../hooks/useContent';
 
 const ServiceDetails = () => {
-    const [service, setService] = useState([]);
     const {serviceId} = useParams();
-    const {contents} = useContent('./service.json');
-    useEffect(()=>{
-        fetch(`https://jsonplaceholder.typicode.com/users/${serviceId}`)
-        .then(res => res.json())
-        .then(data => console.log(data))
-    }, [])
-
+    const {contents} = useContent('/service.json');
+    const singleService = contents.find(content => content.id === parseInt(serviceId));
     return (
         <div>
-            <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero, quis at. Expedita cum, eaque ea perferendis, asperiores quo obcaecati eos hic inventore harum nesciunt laborum tempore labore quasi, nobis nam.</h1>
-            <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero, quis at. Expedita cum, eaque ea perferendis, asperiores quo obcaecati eos hic inventore harum nesciunt laborum tempore labore quasi, nobis nam.</h1>
+            <img className="w-100 mb-5" src={singleService?.banner} alt="" />
+            <div className="w-50 mx-auto text-center">
+                <h2 className="my-5 text-dark">{singleService?.name}</h2>
+                <p className="text-dark my-5">{singleService?.desc}</p>
+                <img className="my-5" src={singleService?.img} alt="" />
+                <p className="my-5 text-dark">{singleService?.details}</p>
+            </div>
         </div>
     );
 };
